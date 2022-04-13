@@ -1,0 +1,15 @@
+label{
+    margin: 0;
+    padding: 0;
+display: inline;
+    margin: 2em 0 0 0;
+ }
+.enlace{
+    margin: 1em 0 0;
+}
+div{
+    margin: 1em 0 0; 
+}
+#nombre{
+    border-color: black;
+}
